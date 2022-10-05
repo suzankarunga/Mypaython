@@ -9,7 +9,7 @@ from tokenize import Number
 #print(number1 + number2)
 print("*" * 20)
 print ("Maximum Cheacker")
-print ("*" * 20)
+print ("*" * 205)
 number1 =int(input("Enter the first number ..."))
 number2 =int(input("Enter the second number"))
 

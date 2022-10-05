@@ -25,7 +25,7 @@ i=0
 while i < len(hostels):
     print(f"hostel number is {i} {hostels[i]}")
     i += 1
-    print
+    
 
 
 
